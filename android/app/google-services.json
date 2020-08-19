@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "86618888777",
+    "firebase_url": "https://vocalizeit-8ea4b.firebaseio.com",
+    "project_id": "vocalizeit-8ea4b",
+    "storage_bucket": "vocalizeit-8ea4b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:86618888777:android:7358fcba8fb939403f7d98",
+        "android_client_info": {
+          "package_name": "com.priyanshu.vocalize_it"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "86618888777-tlfauov0e0ku01u2r407d4s1mh73hpic.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuRaIRGA0Jl9qWA2nI--z34RrISHEzIZ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "86618888777-tlfauov0e0ku01u2r407d4s1mh73hpic.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
